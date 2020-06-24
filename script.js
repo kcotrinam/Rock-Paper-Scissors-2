@@ -10,11 +10,12 @@ const imagesPlayerOption = [
     'img/left-paper.png',
     'img/left-scissors.png',
   ];
+
 const playerOptions = Array.from(document.querySelectorAll('.img-item'));
 const playerChoiceImage = document.querySelector('#player-choice');
 const pcImageChoice = document.querySelector('#pc-choice');
 const ShowPlayerScore = document.querySelector('#player-score span');
-const ShowComputerScore = document.querySelector('#pc-score span');
+const ShowComputerScore = document.querySelector('#show-pc-score span');
 const finalResult = document.querySelector('#result');
 
 let playerChoice;
@@ -26,11 +27,13 @@ let playCounter = 0;
 
 playerOptions.map((option) => {
   option.addEventListener('click', (e) => {
-    playerChoice = e.target.alt;
-    playerChoiceImage.src = `img/right-${playerChoice}.png`;
-    showComputerChoice();
-    playRound();
-    showScore();
+    if (playCounter < 10) {
+      playerChoice = e.target.alt;
+      playerChoiceImage.src = `img/right-${playerChoice}.png`;
+      showComputerChoice();
+      playRound();
+      showScore();
+    }
     showWiner();
   });
 });
@@ -100,8 +103,9 @@ const showScore = () => {
 
 const showWiner = () => {
   if (playCounter === 10) {
-    if (playerScore > computerScore) finalResult.textContent = `You Win!`;
-    else if (computerScore > playerScore) finalResult.textContent = `You Lose!`;
-    else finalResult.textContent = `It's a tie`;
+    if (playerScore > computerScore) {
+      finalResult.src = `img/winner.png`;
+    } else if (computerScore > playerScore) finalResult.src = `img/lose.png`;
+    else finalResult.src = `img/tie.png`;
   }
 };
