@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url('img/background.svg');
+  background-image: url('../img/background.svg');
 }
 
 .main {
