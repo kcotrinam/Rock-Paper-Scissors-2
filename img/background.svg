@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1350px" height="900px" viewBox="0 0 1350 900" enable-background="new 0 0 1350 900" xml:space="preserve">
+
+<rect x="-10" y="-7" fill="#0061A1" stroke="#000000" stroke-miterlimit="10" width="1372" height="926"/>
+
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="356" y1="5" x2="356" y2="248">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M398,195.392C398,224.446,379.196,248,356,248l0,0c-23.196,0-42-23.554-42-52.608V57.608
+	C314,28.554,332.804,5,356,5l0,0c23.196,0,42,23.554,42,52.608V195.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="3s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="148" y1="5" x2="148" y2="248">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M190,195.392C190,224.446,171.196,248,148,248l0,0c-23.196,0-42-23.554-42-52.608V57.608
+	C106,28.554,124.804,5,148,5l0,0c23.196,0,42,23.554,42,52.608V195.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="566" y1="5" x2="566" y2="248">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M608,195.392C608,224.446,589.196,248,566,248l0,0c-23.196,0-42-23.554-42-52.608V57.608
+	C524,28.554,542.804,5,566,5l0,0c23.196,0,42,23.554,42,52.608V195.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="3s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="776" y1="5" x2="776" y2="248">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_4_)" d="M818,195.392C818,224.446,799.196,248,776,248l0,0c-23.196,0-42-23.554-42-52.608V57.608
+	C734,28.554,752.804,5,776,5l0,0c23.196,0,42,23.554,42,52.608V195.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="986" y1="5" x2="986" y2="248">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_5_)" d="M1028,195.392c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V57.608
+	C944,28.554,962.804,5,986,5l0,0c23.196,0,42,23.554,42,52.608V195.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="1196" y1="5" x2="1196" y2="248">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_6_)" d="M1238,195.392c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V57.608
+	C1154,28.554,1172.804,5,1196,5l0,0c23.196,0,42,23.554,42,52.608V195.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="146" y1="638" x2="146" y2="881">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_7_)" d="M188,828.392C188,857.446,169.196,881,146,881l0,0c-23.196,0-42-23.554-42-52.608V690.608
+	C104,661.554,122.804,638,146,638l0,0c23.196,0,42,23.554,42,52.608V828.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="6s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="356" y1="638" x2="356" y2="881">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_8_)" d="M398,828.392C398,857.446,379.196,881,356,881l0,0c-23.196,0-42-23.554-42-52.608V690.608
+	C314,661.554,332.804,638,356,638l0,0c23.196,0,42,23.554,42,52.608V828.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="566" y1="638" x2="566" y2="881">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_9_)" d="M608,828.392C608,857.446,589.196,881,566,881l0,0c-23.196,0-42-23.554-42-52.608V690.608
+	C524,661.554,542.804,638,566,638l0,0c23.196,0,42,23.554,42,52.608V828.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="776" y1="638" x2="776" y2="881">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_10_)" d="M818,828.392C818,857.446,799.196,881,776,881l0,0c-23.196,0-42-23.554-42-52.608V690.608
+	C734,661.554,752.804,638,776,638l0,0c23.196,0,42,23.554,42,52.608V828.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="6s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="986" y1="638" x2="986" y2="881">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_11_)" d="M1028,828.392c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V690.608
+	C944,661.554,962.804,638,986,638l0,0c23.196,0,42,23.554,42,52.608V828.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="1196" y1="638" x2="1196" y2="881">
+	<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#2484C6"/>
+</linearGradient>
+<path fill="url(#SVGID_12_)" d="M1238,828.392c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V690.608
+	c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V828.392z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+<g>
+	<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="253" y1="328.5" x2="253" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_13_)" d="M295,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="3s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="47" y1="328.5" x2="47" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_14_)" d="M89,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		C5,352.054,23.804,328.5,47,328.5l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="463" y1="328.5" x2="463" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_15_)" d="M505,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="673" y1="328.5" x2="673" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_16_)" d="M715,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="883" y1="328.5" x2="883" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_17_)" d="M925,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="3s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="1093" y1="328.5" x2="1093" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_18_)" d="M1135,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="1303" y1="328.5" x2="1303" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_19_)" d="M1345,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+</g>
+
+<g>
+	<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="253" y1="328.5" x2="253" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_13_)" d="M295,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="47" y1="328.5" x2="47" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_14_)" d="M89,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		C5,352.054,23.804,328.5,47,328.5l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="6s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="463" y1="328.5" x2="463" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_15_)" d="M505,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="7s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="673" y1="328.5" x2="673" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_16_)" d="M715,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="3s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="883" y1="328.5" x2="883" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_17_)" d="M925,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="4s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="1093" y1="328.5" x2="1093" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_18_)" d="M1135,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+	<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="1303" y1="328.5" x2="1303" y2="571.5">
+		<stop  offset="0.148" style="stop-color:#2484C6;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#2484C6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_19_)" d="M1345,518.892c0,29.055-18.804,52.608-42,52.608l0,0c-23.196,0-42-23.554-42-52.608V381.108
+		c0-29.055,18.804-52.608,42-52.608l0,0c23.196,0,42,23.554,42,52.608V518.892z">
+	<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="6s"
+                          values="0,-900;0,900;"
+                          repeatCount="indefinite"/>
+</path>
+
+</g>
+</svg>
